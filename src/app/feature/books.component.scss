@@ -1,0 +1,27 @@
+.books-header {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 1rem;
+
+  .query-control {
+    min-width: 20rem;
+  }
+}
+
+.error {
+  color: red;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+.controls {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+
+.content {
+  padding: 1rem;
+}
